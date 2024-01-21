@@ -1,5 +1,7 @@
 # TechnoHacks EduTech Official Intern - 2024
 
+## (Tasks Completed)
+
 ## Task 1 - Landing Page :
 
 ### Light Mode:
